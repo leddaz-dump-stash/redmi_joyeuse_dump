@@ -1,0 +1,14 @@
+# qssi-user 12 SKQ1.211019.001 V14.0.3.0.SJZMIXM release-keys
+- manufacturer: xiaomi
+- platform: atoll
+- codename: joyeuse
+- flavor: qssi-user
+- release: 12
+- id: SKQ1.211019.001
+- incremental: V14.0.3.0.SJZMIXM
+- tags: release-keys
+- fingerprint: Redmi/joyeuse_global/joyeuse:12/RKQ1.211019.001/V14.0.3.0.SJZMIXM:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: qssi-user-12-SKQ1.211019.001-V14.0.3.0.SJZMIXM-release-keys
+- repo: redmi_joyeuse_dump
